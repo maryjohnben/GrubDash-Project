@@ -12,4 +12,4 @@ In this project ExpressJS is used to build RESTful API and the project has the a
 
 The server is run locally on port localhost:5000/
 
-##### **This project is a backend priortized work and may not have functional frontend or database to go with the project. The main purpose is to demonstrate RESTful API built using ExpressJS framework.
+##### **This project is a backend priortized work and may not have functional frontend or database to go with the project. The main purpose is to demonstrate RESTful API built using NodeJS in ExpressJS framework.
