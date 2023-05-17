@@ -2,7 +2,7 @@
 ExpressJS allows to build RESTful API to store data for multiple resources with minimal code. 
 In this project ExpressJS is used to build RESTful API and the project has the ability to create, update, delete, list, and read.
 <br>
-<p> *Project is not deployed on the cloud and needs to be run locally. Please follow the instructions below to get the app to run locally. </p>
+<p> *This project is not deployed on the cloud and needs to be run locally. Please follow the instructions below to get the app to run locally. </p>
 
 #### To download into local machine:  
 - **fork** the repository
